@@ -18,6 +18,8 @@ Olá pessoal estamos chegando ao final do nosso curso e estamos no módulo de fr
 
 - Acompanhe esse repositório que todos os dias será liberado os desafios.
 
+O desafio dara inicio no dia 25/10/2022 e término no dia 15/11/2022.
+
   ------
 
   ### Conteúdos de estudo que pode ajudar:
