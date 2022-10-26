@@ -40,6 +40,13 @@ O desafio dara inicio no dia 25/10/2022 e término no dia 15/11/2022.
   - Criar um loading animado;
 
   ------
+  
+  ### Desafio dia 2:
+
+  - Mudança de cor de texto quando entra em outra div;
+  - Botão com efeito;
+
+  ------
 
   ### Atenção:
 
