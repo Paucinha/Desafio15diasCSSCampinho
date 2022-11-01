@@ -46,7 +46,52 @@ O desafio dara inicio no dia 25/10/2022 e término no dia 15/11/2022.
   - Mudança de cor de texto quando entra em outra div;
   - Botão com efeito;
 
+   ------
+
+  ### Desafio dia 3:
+
+  - Efeito pulsar;
+  - Texto com efeito relâmpago;
+
+   ------
+
+ ### Desafio dia 4:
+
+  - Pré carregador animado;
+  - Coração Batendo;
+
+ ------
+  ### Desafio dia 5:
+
+  - Pêndulo de Newton;
+  - Animação com texto alternado;
+
+ ------
+  ### Desafio dia 6:
+
+  - Botão com efeito hover;
+  - Efeito de preenchimento ao passar o mouse;
+
+ ------
+ ### Desafio dia 6:
+
+  - Botão com efeito hover;
+  - Efeito de preenchimento ao passar o mouse;
+
   ------
+  ### Desafio dia 7:
+
+  - Carregando com efeito;
+  - Fundo de texto animado;
+
+  ------
+  ### Desafio dia 8:
+
+  - Texto Flutuante;
+  - Botão com efeito;
+
+  ------
+
 
   ### Atenção:
 
