@@ -18,7 +18,7 @@ Olá pessoal estamos chegando ao final do nosso curso e estamos no módulo de fr
 
 - Acompanhe esse repositório que todos os dias será liberado os desafios.
 
-O desafio dara inicio no dia 25/10/2022 e término no dia 15/11/2022.
+O desafio dara inicio no dia 25/10/2022 e término no dia 20/11/2022.
 
   ------
 
@@ -92,6 +92,47 @@ O desafio dara inicio no dia 25/10/2022 e término no dia 15/11/2022.
 
   ------
 
+    ### Desafio dia 9:
+
+  - Loader animado;
+  - Texto esfumaçado;
+
+### Desafio dia 10:
+
+  - Efeitos de animação de fundo de partículas;
+  - Botão com efeito;
+
+  ------
+### Desafio dia 11:
+
+  - Esferas quicando;
+  - Icones com efeito;
+
+  ------
+  ### Desafio dia 12:
+
+  - Botão com efeito hover;
+  - Preloader animado;
+
+  ------
+    ### Desafio dia 13:
+
+  - Checkbox animado;
+  - Loading com efeito;
+
+  ------
+   ### Desafio dia 14:
+
+  - Efeito pulsar;
+  - Cor do background mudando;
+
+  ------
+    ### Desafio dia 15:
+
+  - Menu responsivo com Media Queries;
+  - Fogos de artificio;
+
+  ------
 
   ### Atenção:
 
