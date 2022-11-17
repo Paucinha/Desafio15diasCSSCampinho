@@ -108,8 +108,8 @@ O desafio dara inicio no dia 25/10/2022 e término no dia 20/11/2022.
   - Botão com efeito hover;
   - Preloader animado;
 
-  ------
-    ### Desafio dia 13:
+   ------
+   ### Desafio dia 13:
 
   - Checkbox animado;
   - Loading com efeito;
