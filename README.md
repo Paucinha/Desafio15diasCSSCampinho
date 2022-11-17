@@ -109,7 +109,7 @@ O desafio dara inicio no dia 25/10/2022 e término no dia 20/11/2022.
   - Preloader animado;
 
   ------
-    ###Desafio dia 13:
+    ### Desafio dia 13:
 
   - Checkbox animado;
   - Loading com efeito;
@@ -120,14 +120,14 @@ O desafio dara inicio no dia 25/10/2022 e término no dia 20/11/2022.
   - Efeito pulsar;
   - Cor do background mudando;
 
-  ------
-    ###Desafio dia 15:
+------
+   ### Desafio dia 15:
 
   - Menu responsivo com Media Queries;
   - Fogos de artificio;
 
   ------
-
+    
   ### Atenção:
 
   ##### Existem vários desafios desses prontos na internet, não vale copiar do amiguinho, use a sua criatividade, abuse nas cores, pesquisem e tragam novidades.
