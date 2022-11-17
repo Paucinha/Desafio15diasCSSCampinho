@@ -72,12 +72,6 @@ O desafio dara inicio no dia 25/10/2022 e término no dia 20/11/2022.
   - Botão com efeito hover;
   - Efeito de preenchimento ao passar o mouse;
 
- ------
- ### Desafio dia 6:
-
-  - Botão com efeito hover;
-  - Efeito de preenchimento ao passar o mouse;
-
   ------
   ### Desafio dia 7:
 
